@@ -11,12 +11,14 @@ This is an Restful API for Node.js and MongoDB. Designed after PHP's beautiful L
 Install the dependencies:
 
 ```bash
+
 npm install
 ```
 
 Set the environment variables:
 
 ```bash
+# You will find a example.env file in the home directory. Paste the contents of that into a file named .env in the same directory. Fill in the variables to fit your application
 # open .env and modify the environment variables (if needed)
 ```
 
